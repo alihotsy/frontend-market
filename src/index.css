@@ -1,0 +1,11 @@
+
+* {
+    box-sizing: border-box;
+    text-decoration:none;
+    list-style:none;
+}
+
+body, html {
+    font-family: 'Poppins', sans-serif;
+    background:#e7e7e7;
+}

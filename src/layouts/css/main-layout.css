@@ -1,0 +1,9 @@
+
+
+.main-container {
+    display:flex;
+    min-height:calc(100vh);
+    flex-direction:column;
+    padding-bottom: 60px;
+}
+
